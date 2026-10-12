@@ -23,7 +23,7 @@
 
 **Бизнес-вывод:** Бонус увеличивает конверсию и выручку на пользователя. Перед масштабированием необходимо оценить экономику бонуса с учётом его стоимости.
 
-**Стек:** Python, Pandas, NumPy, SciPy, Matplotlib, Bootstrap, PostgresQL
+**Стек:** Python, Pandas, NumPy, Seaborn, SciPy, Matplotlib, Bootstrap, PostgresQL
 
 ### [Исследование результатов А/В-теста и поиск инсайтов приложения SollmaFin](https://github.com/SilverLuna/product-analytics-portfolio/tree/main/02%20-%20Investment%20app%20SollmaFin)
 
@@ -39,7 +39,24 @@
 
 ### [Поиск инсайтов и точек роста сервиса доставки еды](https://github.com/SilverLuna/product-analytics-portfolio/tree/main/03%20-%20Food%20app%20insights)
 
+**Задача:** 
 
+**Методы:** 
+
+**Результаты:** 
+
+**Бизнес-вывод:** 
+
+**Стек:** Python, Pandas, NumPy, SciPy, Matplotlib, Sklearn KMeans
 
 ### [Анализ системы метрик приложения Procrastinate Pro+](https://github.com/SilverLuna/product-analytics-portfolio/tree/main/04%20-%20Procrastinate%20Pro%2B%20metric%20system)
 
+**Задача:** 
+
+**Методы:** 
+
+**Результаты:** 
+
+**Бизнес-вывод:** 
+
+**Стек:** Python, Pandas, NumPy, Seaborn, Matplotlib, Sklearn KMeans
