@@ -23,7 +23,7 @@ A/B-тест: бонус на первую покупку в TikTok
 
 Стек: Python, pandas, NumPy, SciPy, статистические тесты, bootstrap.
 
-### [Исследование результатов А/В-теста и поиск инсайтов приложения SollmaFin](https://github.com/SilverLuna/product-analytics-portfolio/tree/main/01%20-%20Marketplace%20data%20exploration](https://github.com/SilverLuna/product-analytics-portfolio/tree/main/02%20-%20Investment%20app%20SollmaFin)
+### [Исследование результатов А/В-теста и поиск инсайтов приложения SollmaFin](https://github.com/SilverLuna/product-analytics-portfolio/tree/main/02%20-%20Investment%20app%20SollmaFin)
 
 ### [Поиск инсайтов и точек роста сервиса доставки еды «Всё.из.кафе»](https://github.com/SilverLuna/product-analytics-portfolio/tree/main/03%20-%20Food%20app%20insights)
 
