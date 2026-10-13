@@ -87,7 +87,7 @@
 
 **Стек:** PostgreSQL, Yandex DataLens.
 
-## Дополнительные проекты
+## Другие проекты
 
 * [**Монетизация онлайн-игры «Секреты Темнолесья»**](https://github.com/SilverLuna/product-analytics-portfolio/tree/main/06%20-%20Darkwood%20Secrets%20monetization) — анализ доли платящих игроков, распределения стоимости покупок и популярности внутриигровых предметов с помощью SQL.
 * [**Исследование рынка общественного питания Москвы**](https://github.com/SilverLuna/product-analytics-portfolio/tree/main/08%20-%20Moscow%20food%20market%20research) — предобработка данных, анализ заведений по категориям и районам, рейтингов, среднего чека и корреляций с помощью Python.
